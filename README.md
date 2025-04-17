@@ -4,7 +4,7 @@
 - 📫 How to reach me
 - Linkedin: https://www.linkedin.com/in/shabnam-yadav-06a5a5299
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 🚀 Passionate About Learning New Technologies | 🌐 Software Developer Enthusiast | 💡 Innovating with Cutting-Edge Solutions
 
 <!---
 Shabnam-2004/Shabnam-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
